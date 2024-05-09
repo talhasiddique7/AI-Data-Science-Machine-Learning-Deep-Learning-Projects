@@ -1,6 +1,6 @@
 # AI-Data-Science-Machine-Learning-Deep-Learning-Projects
 Explore a collection of AI, data science, machine learning, and deep learning projects on GitHub.
-## 1. Titanic Death Prediction Project
+<a href="https://github.com/talhasiddique7/AI-Data-Science-Machine-Learning-Deep-Learning-Projects/tree/main/Titanic%20Death%20prediction%20(Binary%20Classification)">## 1. Titanic Death Prediction Project</a>
 
 This project utilizes the Titanic dataset to predict survival outcomes for passengers based on various features. Leveraging machine learning algorithms, including decision trees and logistic regression, we aim to analyze historical data and predict survival probabilities accurately.
 
